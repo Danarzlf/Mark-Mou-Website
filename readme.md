@@ -1,4 +1,4 @@
-# Kedai Kopi
+<!-- # Kedai Kopi
 
 Website Kedai Kopi with HTML CSS JS
 
@@ -16,4 +16,4 @@ Website Kedai Kopi with HTML CSS JS
 
 ## Contact
 
-`![contact](https://github.com/Danarzlf/Kedai-Kopi-Website/blob/main/img/readmeimg/contact.png?raw=true)
+`![contact](https://github.com/Danarzlf/Kedai-Kopi-Website/blob/main/img/readmeimg/contact.png?raw=true) -->
